@@ -5,6 +5,8 @@
  */
 package javaapplication7;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author DIASE PC-3
@@ -15,7 +17,11 @@ public class JavaApplication7 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+      
+        
+// TODO code application logic here
+
+JOptionPane.showMessageDialog(null,"hola mundo");
     }
     
 }
